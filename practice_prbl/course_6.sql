@@ -1,5 +1,5 @@
 /*
-    - find the job posting for the first quater have salary greater than 70k ?
+    - find the job posting for the first quater having salary greater than 70k ?
     
 */
 
