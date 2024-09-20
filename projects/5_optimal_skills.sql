@@ -57,15 +57,15 @@ LIMIT 10
 
 /*
 Here's a breakdown of the most optimal skills for Data Centric Indian Jobs in 2023:    
-    - 'High-Paying Skills': Skills like Spark and Hadoop offer the highest average salaries, at ₹142,458 and ₹138,875 respectively, 
+    - High-Paying Skills: Skills like Spark and Hadoop offer the highest average salaries, at ₹142,458 and ₹138,875 respectively, 
         indicating that these technologies command significant compensation in the data analytics field.
-    - 'High-Demand Skills': SQL and Python are the most frequently required skills in job postings,
+    - High-Demand Skills: SQL and Python are the most frequently required skills in job postings,
         with 3854 and 3517 job listings respectively, showing that they are highly sought after by employers.
-    - 'Balancing Salary and Demand': Python stands out as a skill that balances both high demand and high salary, 
+    - Balancing Salary and Demand: Python stands out as a skill that balances both high demand and high salary, 
         with an average salary of ₹133,137 and significant job availability.
-    - 'Emerging Technologies': Skills in AWS and Azure also show strong average salaries (₹137,478 and ₹131,486) and substantial job counts,
+    - Emerging Technologies: Skills in AWS and Azure also show strong average salaries (₹137,478 and ₹131,486) and substantial job counts,
         highlighting the importance of cloud technologies in the current job market.
-    - 'Visualization Tools': While not as high in average salary compared to other skills,
+    - Visualization Tools: While not as high in average salary compared to other skills,
         Tableau is still notable with a decent average salary of ₹117,769 and a high demand count of 1445, underscoring its value in data visualization.
 
 
