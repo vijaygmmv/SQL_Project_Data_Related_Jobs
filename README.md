@@ -57,9 +57,9 @@ LIMIT 10;
 ```
 
  *For this whole project, I am using the **LIKE** operator for filtration. which is working fine with my database.
-But the proper way to write it was to use the **in** operator.*
+But the proper way to write it was to use the **IN** operator.*
 ```sql
-where j.job_title_short in ('data analyst', 'data engineer', 'data scientist', 'business analyst') 
+where j.job_title_short IN ('data analyst', 'data engineer', 'data scientist', 'business analyst') 
 ```
 
 Here's the breakdown of the top data-centric Indian jobs in 2023:
