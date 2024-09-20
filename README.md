@@ -68,7 +68,7 @@ Here's the breakdown of the top data-centric Indian jobs in 2023:
 - **Posting Dates:** The jobs were posted between October and December 2023, showing a healthy recruitment drive during the latter part of the year.
 - These roles are **full-time** and based in India, with **no remote work** options listed.
 
-![Top Paying Roles](/SQL_CODES/Git/picture/pic_1.png)
+![Top Paying Roles](picture/pic_1.png)
 *Bar graph visualizing the salary for the top 10 data_centric Jobs in India.*
 
 ### 2. Skills for Top Paying Jobs
