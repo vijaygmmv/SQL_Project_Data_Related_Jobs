@@ -1,5 +1,6 @@
 # Introduction
-📊 Dive into the data job market! Focusing on data-Centric roles in India, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+📊 Dive into the data job market! Focusing on data-Centric roles in India, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary.
+
 
 🔍 SQL queries? Check them out here: [project_sql folder](projects/)
 
