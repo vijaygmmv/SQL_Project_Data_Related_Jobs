@@ -114,20 +114,9 @@ Here's the breakdown of the most demanded skills for data analysts in 2023, base
 - **Data Scientist** positions at companies like **Micron and Shell**, with salaries around ₹170,575, prioritize skills like **SQL**, **Python**, and **Snowflake**.
 - Overall, **SQL**, **Python**, and **AWS** emerge as key skills for high-paying data roles in India.
 
-| Job Title            | Company Name            | Skills        |  Average Salary (Year) |
-|:---------------------|:-------------------------|---------------:|-----------------------:|
-| Senior Data Engineer | Bristol Myers Squibb    | python        | $181,765              |
-| Senior Data Engineer | Bristol Myers Squibb    | aws           | $181,765              |
-| Senior Data Engineer | Bristol Myers Squibb    | excel         | $181,765              |
-| Senior Data Engineer | Bristol Myers Squibb    | tableau       | $181,765              |
-| Data Scientist       | Shell                   | shell         | $170,575              |
-| Data Scientist       | Shell                   | databricks    | $170,575              |
-| Data Scientist       | Micron Technology       | sql           | $170,575              |
-| Data Scientist       | Micron Technology       | python        | $170,575              |
-| Data Scientist       | Micron Technology       | snowflake     | $170,575              |
-| Data Scientist       | Micron Technology       | spark         | $170,575              |
 
-*Table of top 10 High paying skills in India*
+![Top Paying Skills][]
+*Bar graph visualizing the count of skills for the top paying data-centric jobs in India*
 
 ### 3. In-Demand Skills for Data Analysts
 
@@ -319,3 +308,5 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 The SQL course provided a comprehensive foundation in database management and query crafting, from setting up VS Code, PostgreSQL, and pgAdmin, to mastering advanced SQL techniques. The hands-on projects, including crafting 5 SQL queries with real-world job posting data from 2023, allowed for practical application of these skills, revealing insights into high-paying and in-demand data roles. The course not only enhanced my technical abilities but also deepened my understanding of industry trends, highlighting the importance of skills like SQL and Python in the job market. Overall, this learning experience has equipped me with the knowledge and confidence to tackle complex data challenges and pursue opportunities in the evolving field of data analysis.
+
+[def]: pictures/top_paying_skill.png
