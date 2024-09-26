@@ -116,7 +116,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023, base
 - Overall, **SQL**, **Python**, and **AWS** emerge as key skills for high-paying data roles in India.
 
 
-![Top Paying Skills](picture/Top_Paying_Skills.png)
+![Top Paying Skills](picture/pic_2.png)
 *Bar graph visualizing the count of skills for the top paying data-centric jobs in India*
 
 ### 3. In-Demand Skills for Data Analysts
@@ -256,10 +256,10 @@ LIMIT 10
 
 ```
 
-![Optimal Skill](picture/pic.png)
+![Optimal Skill](picture/pic_5.png)
 
 
-*Table of the most optimal skills for data-centric role sorted by salary*
+*Table of the most optimal skills for data-centric role sorted by job_count*
 
 - **High-Demand Programming Languages:** SQL and Python are the most in-demand skills, with job counts of 3,854 and 3,517 respectively, reflecting their strong presence across various industries.
 - **Top-Paying Big Data Skill:** Spark offers the highest average salary at $142,458, indicating the premium for expertise in big data technologies.
