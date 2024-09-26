@@ -256,7 +256,7 @@ LIMIT 10
 
 ```
 
-![Optimal Skill](picture/pic2_1.png)
+![Optimal Skill](picture/pic.png)
 
 
 *Table of the most optimal skills for data-centric role sorted by salary*
