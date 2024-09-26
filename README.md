@@ -1,7 +1,8 @@
 # Introduction
-📊 Dive into the data job market! Focusing on data-Centric roles in India, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+📊 Dive into the data job market! Focusing on data-Centric roles in India, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary.
 
-🔍 SQL queries? Check them out here: [project_sql folder](/SQL_CODES/Git/projects/)
+
+🔍 SQL queries? Check them out here: [project_sql folder](projects/)
 
 # Background
 Driven by a quest to navigate the data-Centric job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
@@ -57,9 +58,9 @@ LIMIT 10;
 ```
 
  *For this whole project, I am using the **LIKE** operator for filtration. which is working fine with my database.
-But the proper way to write it was to use the **in** operator.*
+But the proper way to write it was to use the **IN** operator.*
 ```sql
-where j.job_title_short in ('data analyst', 'data engineer', 'data scientist', 'business analyst') 
+where j.job_title_short IN ('data analyst', 'data engineer', 'data scientist', 'business analyst') 
 ```
 
 Here's the breakdown of the top data-centric Indian jobs in 2023:
@@ -255,7 +256,7 @@ LIMIT 10
 
 ```
 
-![Optimal Skill](picture/pic.png)
+![Optimal Skill](picture/pic2_1.png)
 
 
 *Table of the most optimal skills for data-centric role sorted by salary*
@@ -298,4 +299,3 @@ From the analysis, several general insights emerged:
 
 The SQL course provided a comprehensive foundation in database management and query crafting, from setting up VS Code, PostgreSQL, and pgAdmin, to mastering advanced SQL techniques. The hands-on projects, including crafting 5 SQL queries with real-world job posting data from 2023, allowed for practical application of these skills, revealing insights into high-paying and in-demand data roles. The course not only enhanced my technical abilities but also deepened my understanding of industry trends, highlighting the importance of skills like SQL and Python in the job market. Overall, this learning experience has equipped me with the knowledge and confidence to tackle complex data challenges and pursue opportunities in the evolving field of data analysis.
 
-[def]: pictures/top_paying_skill.png

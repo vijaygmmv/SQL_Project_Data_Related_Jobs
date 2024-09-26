@@ -30,15 +30,15 @@ limit 20
 /*
 
 Here's a breakdown of the results for top paying skills for Data Centric Jobs in India:
-    - 'Highest Average Salaries': Skills such as RingCentral and Mongo offer the highest average salaries at ₹182,500 and ₹171,361 respectively. 
+    - Highest Average Salaries: Skills such as RingCentral and Mongo offer the highest average salaries at ₹182,500 and ₹171,361 respectively. 
         This indicates that these skills command the top compensation in the market.
-    - 'Strong Paying Technologies': Lua and Solidity follow closely with average salaries of ₹170,500 and ₹168,300,
+    - Strong Paying Technologies: Lua and Solidity follow closely with average salaries of ₹170,500 and ₹168,300,
         showing that they are also highly valued by employers
-    - 'High Compensation in Emerging Skills': Objective-C and Node.js also feature prominently with average salaries of ₹164,500 and ₹161,450,
+    - High Compensation in Emerging Skills': Objective-C and Node.js also feature prominently with average salaries of ₹164,500 and ₹161,450,
         reflecting their importance in the tech industry.
-    - 'Diverse Skill Set': Skills such as Dplyr and Watson offer solid average salaries of ₹160,667 and ₹155,779 respectively,
+    - Diverse Skill Set: Skills such as Dplyr and Watson offer solid average salaries of ₹160,667 and ₹155,779 respectively,
         highlighting the value of diverse technologies in data analysis and AI.
-    - 'Growing Technologies': Pytorch and AirTable show competitive average salaries of ₹148,333 and ₹147,677,
+    - Growing Technologies: Pytorch and AirTable show competitive average salaries of ₹148,333 and ₹147,677,
         demonstrating the growing importance of machine learning frameworks and modern data management tools.
 
 

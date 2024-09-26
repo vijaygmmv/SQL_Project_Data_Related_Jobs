@@ -6,7 +6,7 @@
         providing insights into the most valuable skills for job seekers.
 */
 
-select 
+SELECT 
         sd.skills as skill_name,
         count(*) as job_count 
 from 

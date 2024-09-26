@@ -27,7 +27,7 @@ WITH top_paying_jobs AS (
     LIMIT 10
 )
 
--- Query to select skills for the top-paying jobs
+-- Query to select skills from the top-paying jobs
 
 SELECT  
     top.job_title_short,

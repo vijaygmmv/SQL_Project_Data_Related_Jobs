@@ -1,6 +1,4 @@
 --  What is the most in demand  skills in Data Roles in India
---      * 
---      * find the jobs in india
 
 WITH remote_jobs as (
     select sj.skill_id,count(*) as job_count 

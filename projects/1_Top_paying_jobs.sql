@@ -33,6 +33,7 @@ LIMIT 10;
 
 
 /*
+
 Here's the breakdown of the top data-centric Indian jobs in 2023:
   - The Data Scientist ROle at GSK will Offer an average annual salary of $204,381.
   - Other high-paying positions include Senior Data Engineer at Bristol Myers Squibb ($181,765) and Data Scientist roles at KONE and Micron Technology, each offering around $170,575 annually.
