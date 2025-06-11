@@ -158,7 +158,7 @@ Here's the breakdown of the most demanded skills for Data Centric Indian Jobs in
 *Table of the demand for the top 5 skills in data-centric job postings in India*
 
 ### 4. Skills Based on Salary
-Exploring the average salaries associated with different skills revealed which skills are the highest paying.
+Exploring  the average salaries associated with different skills revealed which skills are the highest paying.
 ```sql
 SELECT 
     sd.skills as skill_name,
